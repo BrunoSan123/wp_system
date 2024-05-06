@@ -8,6 +8,10 @@ use App\Services\PostContentService;
 use App\Services\PostFileService;
 use Illuminate\Http\Request;
 
+use DOMDocument;
+use DOMXPath;
+use Illuminate\Support\Str;
+
 class GooGleDocsController extends Controller
 {
     //
@@ -45,8 +49,55 @@ class GooGleDocsController extends Controller
         if(empty($content->post_content)){
             $content->post_content = ' ';
         }
-        $doc_created=$this->googleDocsService->createAndPopulateGoogleDoc($content->theme,$content->post_content,$request->folder_id);
+
+        $googleDocsContent = "## hello world";//$this->convertToGoogleDocsFormat($content->post_content);
+
+        $doc_created=$this->googleDocsService->createAndPopulateGoogleDoc($content->theme,$googleDocsContent,$request->folder_id);
 
         return $doc_created;
+    }
+
+    public function convertToGoogleDocsFormat($htmlContent) {
+        return $htmlContent;
+        // Load HTML content into DOMDocument
+        $dom = new DOMDocument();
+        libxml_use_internal_errors(true); // Suppress HTML5 parsing errors
+        $dom->loadHTML($htmlContent);
+        libxml_clear_errors();
+
+        // XPath query to select all elements
+        $xpath = new DOMXPath($dom);
+        $elements = $xpath->query('//*');
+
+        // Loop through each element and convert to Google Docs compatible format
+        foreach ($elements as $element) {
+            // Convert heading tags
+            if ($element->tagName == 'h1') {
+                $element->nodeValue = "### " . $element->nodeValue;
+            } elseif ($element->tagName == 'h2') {
+                $element->nodeValue = "## " . $element->nodeValue;
+            } elseif ($element->tagName == 'h3') {
+                $element->nodeValue = "# " . $element->nodeValue;
+            }
+
+            // Convert bold and italic tags
+            if ($element->tagName == 'strong') {
+                $element->nodeValue = "**" . $element->nodeValue . "**";
+            } elseif ($element->tagName == 'em') {
+                $element->nodeValue = "*" . $element->nodeValue . "*";
+            }
+
+            // You may add more conversions for other HTML tags as needed
+        }
+
+        // Get the modified HTML content
+        $modifiedHtml = $dom->saveHTML();
+
+        // Remove the default doctype, <html>, and <body> tags added by saveHTML()
+        $modifiedHtml = Str::replaceFirst('<!DOCTYPE html>', '', $modifiedHtml);
+        $modifiedHtml = Str::after($modifiedHtml, '<body>');
+        $modifiedHtml = Str::beforeLast($modifiedHtml, '</body>');
+
+        return $modifiedHtml;
     }
 }
