@@ -50,7 +50,7 @@ class GooGleDocsController extends Controller
             $content->post_content = ' ';
         }
 
-        $googleDocsContent = "## hello world";//$this->convertToGoogleDocsFormat($content->post_content);
+        $googleDocsContent = $this->convertToGoogleDocsFormat($content->post_content);
 
         $doc_created=$this->googleDocsService->createAndPopulateGoogleDoc($content->theme,$googleDocsContent,$request->folder_id);
 
