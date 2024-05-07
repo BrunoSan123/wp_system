@@ -7,6 +7,7 @@ use Google\Client;
 use Google\Service\Docs;
 use Google\Service\Drive;
 use Google\Service\Docs\Request;
+use Google\Service\Docs\TextStyle; //isso pode add style para o doc google
 
 
 class PostFileService{
