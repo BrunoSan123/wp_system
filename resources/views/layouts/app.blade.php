@@ -347,6 +347,7 @@
                 <ol><a href="{{ route('yoastforce', ['page' => 'yoastforce']) }}"><i class="fas fa-id-card"></i>youstforce</a></ol>
 
             </div>
+            <li class="Changelog"><a href="{{ route('changelog', ['page' => 'changelog']) }}" ><i class="fas fa-sign-out-alt"></i> Changelog & Plugin</a></li>
 
             <li class="quit"><a href="#" onclick="logoff()"><i class="fas fa-sign-out-alt"></i> Sair</a></li>
         </ul>

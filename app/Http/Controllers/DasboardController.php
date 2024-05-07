@@ -204,5 +204,11 @@ class DasboardController extends Controller
         return view('dashboard.siteUpload');
     }
 
+    public function changelog(){
+        $changelog = file_get_contents(public_path('log.csv'));
+        $changelog = explode("\n", $changelog);
+        return view('dashboard.changelog', ['changelog' => $changelog]);
+    }
+
 
 }

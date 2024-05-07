@@ -58,6 +58,8 @@ Route::get('/config_updated',[DasboardController::class,'configUpdated'])->name(
 Route::get('/teste',[DasboardController::class,'gptTeste']);
 Route::get('/yoastforce',[DasboardController::class,'yoastforce'])->name('yoastforce');
 Route::get('/register_site_table',[DasboardController::class,'registerSiteTeste'])->name('importSite');
+Route::get('/changelog',[DasboardController::class,'changelog'])->name('changelog');
+
 
 
 Route::post('/createEditor', [EditorController::class,'processEditor'])->name('processEditor');

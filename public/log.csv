@@ -1,0 +1,449 @@
+0a09a94,cosmosgc,cosmoskitsune@hotmail.com,Merge remote-tracking branch 'upstream/link_interno' into qa_fix
+3570daa,Bruno Barreto,bruno-kk@hotmail.com,fix:bug adjusted
+3110b16,cosmosgc,cosmoskitsune@hotmail.com,Merge remote-tracking branch 'upstream/wp_post_info' into qa_fix
+6c0f414,cosmosgc,cosmoskitsune@hotmail.com,comunicação com plugin para pegar posts futuros, opção de quantos items pegar
+d42596d,Bruno Barreto,bruno-kk@hotmail.com,feat:tabela de conteudo do post criado
+970ca25,cosmosgc,cosmoskitsune@hotmail.com,breakline fix on yoastforce
+9c06fde,cosmosgc,cosmoskitsune@hotmail.com,monica fix
+0e0019b,cosmosgc,cosmoskitsune@hotmail.com,teste4
+16625cf,cosmosgc,cosmoskitsune@hotmail.com,test3
+bb34e2b,cosmosgc,cosmoskitsune@hotmail.com,teste 2
+c9d1b70,cosmosgc,cosmoskitsune@hotmail.com,string test
+ace3739,Bruno Barreto,bruno-kk@hotmail.com,fix: link interdo adicionado
+7d93d7a,cosmosgc,cosmoskitsune@hotmail.com,changing js scape on yoastforce
+937487c,cosmosgc,cosmoskitsune@hotmail.com,yoastforce tem mensagem de sucesso sem timer
+5bb7fd6,cosmosgc,cosmoskitsune@hotmail.com,animation feedback on yoastforce
+dfcf142,cosmosgc,cosmoskitsune@hotmail.com,fix do keyword e yoast
+322bfa2,cosmosgc,cosmoskitsune@hotmail.com,fix do lote post
+e239ca0,cosmosgc,cosmoskitsune@hotmail.com,marca headers da tabela csv que estão erradas
+13153f6,cosmosgc,cosmoskitsune@hotmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+f1b34d3,cosmosgc,cosmoskitsune@hotmail.com,Yoaust só mostra os domains cadastrados no usuario
+8ef3723,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+91c53d2,Bruno Barreto,bruno-kk@hotmail.com,fix: bug do csv resolvido
+f33365b,cosmosgc,cosmoskitsune@hotmail.com,remove redundancy
+3bf2999,cosmosgc,cosmoskitsune@hotmail.com,added order by name in domain
+22eee9b,cosmosgc,cosmoskitsune@hotmail.com,fix typo
+56df806,cosmosgc,cosmoskitsune@hotmail.com,redundancia no duplicatas yoaust force
+8bf60c5,cosmosgc,cosmoskitsune@hotmail.com,tentei remover mais duplicatas dos domains yoaust
+34fbb7e,cosmosgc,cosmoskitsune@hotmail.com,Dominios para yoaust force agora é pesquisavel
+1fbaf51,cosmosgc,cosmoskitsune@hotmail.com,modificação para remover o href
+e5f5c48,cosmosgc,viniciusbretasavezani@gmail.com,google credentials tweaks
+40fe01c,cosmosgc,viniciusbretasavezani@gmail.com,Quando o post é scheduled, ele tenta criar o link com o slug
+969d4a5,cosmosgc,viniciusbretasavezani@gmail.com,merge
+2b9a03e,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+5a18741,cosmosgc,viniciusbretasavezani@gmail.com,melhorias QoL em telas de error forceyoaust
+042c504,Bruno Barreto,bruno-kk@hotmail.com,anything
+d5d081e,Bruno Barreto,bruno-kk@hotmail.com,fix: teste recursion for prod
+147c30f,Bruno Barreto,bruno-kk@hotmail.com,fix:recursão adicionada a função de imagem no google
+0b9aaf4,cosmosgc,viniciusbretasavezani@gmail.com,delay de 1 segundo na recursiva
+3ad0540,cosmosgc,viniciusbretasavezani@gmail.com,some gpt error handling
+187bcd5,Bruno Barreto,bruno-kk@hotmail.com,fix: recursive function added
+29d4c23,cosmosgc,viniciusbretasavezani@gmail.com,uma dashboard simples inicial
+67abcbc,Bruno Barreto,bruno-kk@hotmail.com,fix:bugs da planilha analisados
+e8f3e5f,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+9e6c377,Bruno Barreto,bruno-kk@hotmail.com,fix: internal link variable removed
+0ba568b,cosmosgc,viniciusbretasavezani@gmail.com,esconde importar site
+ae084d1,cosmosgc,viniciusbretasavezani@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+32a8b30,Bruno Barreto,bruno-kk@hotmail.com,fix:bug na planilha atualizado
+e51e1a5,cosmosgc,viniciusbretasavezani@gmail.com,ignored
+6975872,Bruno Barreto,bruno-kk@hotmail.com,fix:some changes
+dd3a367,Bruno Barreto,bruno-kk@hotmail.com,fix: recursividade adicionada a funçao
+4edd6a8,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+65ed30c,Bruno Barreto,bruno-kk@hotmail.com,fix: you-tube try-catch fixed
+df27621,cosmosgc,viniciusbretasavezani@gmail.com,Frontend e um pouco de backend para importar sites
+70eb604,Bruno Barreto,bruno-kk@hotmail.com,fix:route for regiter upload teste added
+09772e1,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+002e237,Bruno Barreto,bruno-kk@hotmail.com,feat:site register by table ,created
+1bffbc6,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+4bc8bba,cosmosgc,viniciusbretasavezani@gmail.com,continue se der erro no youtube
+e902442,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+ba5ee7a,Bruno Barreto,bruno-kk@hotmail.com,fix: user list visibilit
+daf2254,cosmosgc,viniciusbretasavezani@gmail.com,add https do update host if does not contain it
+4097a58,cosmosgc,viniciusbretasavezani@gmail.com,merge
+f060bba,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+61661bf,cosmosgc,viniciusbretasavezani@gmail.com,arrumando o id do generate_post ser null nas tabelas
+a4cf01e,Bruno Barreto,bruno-kk@hotmail.com,fix: criação de documentos em lote adicionado
+d3c289c,cosmosgc,viniciusbretasavezani@gmail.com,debug keyword 2
+5b20d39,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '6f122540c86df618cd253cdd2b5b2ab40dbbdf11' into qa_fix
+a39845c,cosmosgc,viniciusbretasavezani@gmail.com,some tweaks for yoast keyword
+6f12254,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+46c641e,Bruno Barreto,bruno-kk@hotmail.com,fix: filter added to list credentials
+692429b,cosmosgc,viniciusbretasavezani@gmail.com,wrap para ignorar error de midia wordpress
+76d8a59,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+c7e2f55,Bruno Barreto,bruno-kk@hotmail.com,fix: schedule form updated
+2b09da4,cosmosgc,viniciusbretasavezani@gmail.com,QoL no yoastforce
+45e034e,cosmosgc,viniciusbretasavezani@gmail.com,traduzindo string
+da27325,cosmosgc,viniciusbretasavezani@gmail.com,yoastforce is more clientside now
+9378c99,cosmosgc,viniciusbretasavezani@gmail.com,post now update the correct post link
+4b96e7f,cosmosgc,viniciusbretasavezani@gmail.com,update the correct post to published
+944127c,cosmosgc,viniciusbretasavezani@gmail.com,refinando o sistema de erro
+d8f9370,cosmosgc,viniciusbretasavezani@gmail.com,csv progressbar + skip header
+f6bc54a,cosmosgc,viniciusbretasavezani@gmail.com,client side csv process update
+5bdb915,cosmosgc,viniciusbretasavezani@gmail.com,teste de importar csv
+b1a0d16,Bruno Barreto,bruno-kk@hotmail.com,fix: injunção adicionada ao importCsv
+33bb815,cosmosgc,viniciusbretasavezani@gmail.com,Traduzindo alguns alerts
+1f97839,cosmosgc,viniciusbretasavezani@gmail.com,batch delete now with alert fixed
+965c256,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+34feced,Bruno Barreto,bruno-kk@hotmail.com,fix: adicição de imagem via planilha ajustado
+cd8d6c0,cosmosgc,viniciusbretasavezani@gmail.com,style tweaks
+6a32c38,cosmosgc,viniciusbretasavezani@gmail.com,modal style tweaks
+b8672b9,cosmosgc,viniciusbretasavezani@gmail.com,modal style update
+527ce13,Bruno Barreto,bruno-kk@hotmail.com,fix: updatesite uodated
+0e55dd6,Bruno Barreto,bruno-kk@hotmail.com,fix:intparse removed
+9457916,Bruno Barreto,bruno-kk@hotmail.com,fix:random youtube-video added
+a915eeb,cosmosgc,viniciusbretasavezani@gmail.com,test2
+3c83f67,cosmosgc,viniciusbretasavezani@gmail.com,test1
+17a7205,cosmosgc,viniciusbretasavezani@gmail.com,no more articles about NUMBER INDEX
+e2a87b6,cosmosgc,viniciusbretasavezani@gmail.com,ping website to domains on domain list
+5c1c6d9,cosmosgc,viniciusbretasavezani@gmail.com,old category query
+7b112a2,cosmosgc,viniciusbretasavezani@gmail.com,limpa as categorias antes de add childs
+3f7a3d8,cosmosgc,viniciusbretasavezani@gmail.com,do_follow returns false
+710382d,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+7122ec5,Bruno Barreto,bruno-kk@hotmail.com,fix: service rollback
+0b4bff5,cosmosgc,viniciusbretasavezani@gmail.com,check if empty, return null if so
+216b9cf,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+6b9bf74,Bruno Barreto,bruno-kk@hotmail.com,s back
+ae44476,Bruno Barreto,bruno-kk@hotmail.com,fix: enpoint na query de categorias, atualizada
+5e73d45,cosmosgc,viniciusbretasavezani@gmail.com,limitações para quem não é admin
+a882d84,cosmosgc,viniciusbretasavezani@gmail.com,add a check if exist the api key
+ed67f00,cosmosgc,viniciusbretasavezani@gmail.com,debug 5
+5ed5485,cosmosgc,viniciusbretasavezani@gmail.com,debug 4
+c0e06a9,cosmosgc,viniciusbretasavezani@gmail.com,debug 3
+b739c8e,cosmosgc,viniciusbretasavezani@gmail.com,debug 2
+6eaf9b3,cosmosgc,viniciusbretasavezani@gmail.com,debug 1
+f28d11a,cosmosgc,viniciusbretasavezani@gmail.com,revert and comment the other way
+755db8a,cosmosgc,viniciusbretasavezani@gmail.com,get the drive cred from all the db, select first!
+f0fae6c,cosmosgc,viniciusbretasavezani@gmail.com,add a check on convertYouTubeLinksToEmbeds if string is ''
+b201e63,cosmosgc,viniciusbretasavezani@gmail.com,add a check if youtube api is null
+8b4337f,cosmosgc,viniciusbretasavezani@gmail.com,spacing typo
+8ff4940,cosmosgc,viniciusbretasavezani@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+86a90ec,Bruno Barreto,bruno-kk@hotmail.com,teste 8 for prod
+36e0e63,Bruno Barreto,bruno-kk@hotmail.com,prod teste 7
+2afea9f,Bruno Barreto,bruno-kk@hotmail.com,teste 6 for prod
+b3fc38d,Bruno Barreto,bruno-kk@hotmail.com,teste 5 for prod
+c5cf771,Bruno Barreto,bruno-kk@hotmail.com,teste 4 or prod
+8bfc5c9,cosmosgc,viniciusbretasavezani@gmail.com,if apikey = null
+8c633d1,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+3345341,cosmosgc,viniciusbretasavezani@gmail.com,wrap error on youtube post
+04c4794,Bruno Barreto,bruno-kk@hotmail.com,teste 4 or prod
+c3a07df,Bruno Barreto,bruno-kk@hotmail.com,3 test or prod
+24cebd8,Bruno Barreto,bruno-kk@hotmail.com,fix other test for prod
+d9b3d5a,Bruno Barreto,bruno-kk@hotmail.com,dd for prod test
+edf8fe2,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+2bdd3bb,Bruno Barreto,bruno-kk@hotmail.com,fix:query do you-tube atualizada
+87409ed,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+17ed58f,cosmosgc,viniciusbretasavezani@gmail.com,error message if batch return a error and video link check
+08afe0f,Bruno Barreto,bruno-kk@hotmail.com,fix: nome do campo de imagens do drive mudada
+d019292,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+7298b9c,cosmosgc,viniciusbretasavezani@gmail.com,for loop on headings
+b1ef7df,Bruno Barreto,bruno-kk@hotmail.com,fix:config delete updated
+27fdbc1,Bruno Barreto,bruno-kk@hotmail.com,fix: delete image from storage added
+a2a0ab6,Bruno Barreto,bruno-kk@hotmail.com,fix:thread de imagem adicionada ao csv_reader
+888d0a3,cosmosgc,viniciusbretasavezani@gmail.com,tentando arrumar o problema de retornar 0
+e31962e,cosmosgc,viniciusbretasavezani@gmail.com,create log file
+9336577,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+2134be6,Bruno Barreto,bruno-kk@hotmail.com,fix: retry added to gpt request
+56444e2,cosmosgc,viniciusbretasavezani@gmail.com,add innertext to a on youtube link
+9a99155,Bruno Barreto,bruno-kk@hotmail.com,fix:bug on youtube link
+38c0792,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '31bf0609f1f0a0b4f2de658e2860c0ddfa5dfcf9' into qa_fix
+31bf060,Bruno Barreto,bruno-kk@hotmail.com,fix:try catch added to  the gpt service
+a641088,cosmosgc,viniciusbretasavezani@gmail.com,removing iframe because fuck me
+6892588,Bruno Barreto,bruno-kk@hotmail.com,fix:cdv reader negative Day added
+58e3911,Bruno Barreto,bruno-kk@hotmail.com,fix:data key for teste removed
+d5f1a12,Bruno Barreto,bruno-kk@hotmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+d1b8878,Bruno Barreto,bruno-kk@hotmail.com,fix:wp_api_keys  fidex
+9eaff23,cosmosgc,viniciusbretasavezani@gmail.com,video value request fix
+989bb5e,cosmosgc,viniciusbretasavezani@gmail.com,only return success if query is ok
+da5d1ea,cosmosgc,viniciusbretasavezani@gmail.com,s
+f2e62c9,cosmosgc,viniciusbretasavezani@gmail.com,wp cred test in prod
+507f826,cosmosgc,viniciusbretasavezani@gmail.com,returna string vazia se não ter api para youtube
+d21f4c7,cosmosgc,viniciusbretasavezani@gmail.com,reiniciar pagina quando geração em lote completar
+139cb02,cosmosgc,viniciusbretasavezani@gmail.com,alert if single post generate
+863f1cb,cosmosgc,viniciusbretasavezani@gmail.com,some changes to progress bar
+56af882,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+1829e9a,cosmosgc,viniciusbretasavezani@gmail.com,default option to batch generate is a front end loop now (with option to loop in backend)
+75b6e2c,cosmosgc,viniciusbretasavezani@gmail.com,check if href is not valid
+a637885,cosmosgc,viniciusbretasavezani@gmail.com,menu order and nomenclature
+b541f71,Bruno Barreto,bruno-kk@hotmail.com,fix:link do post gerado adicionado
+d5c77ab,Bruno Barreto,bruno-kk@hotmail.com,fix:video added to csv_reader
+3928a2a,Bruno Barreto,bruno-kk@hotmail.com,fix: post_url field added to the post_content model
+2b3c4fc,Bruno Barreto,bruno-kk@hotmail.com,fix:do_follow_bug
+8baa93d,Bruno Barreto,bruno-kk@hotmail.com,fix:meu ovo
+338b66c,cosmosgc,viniciusbretasavezani@gmail.com,do follow is now post gpt request
+23bbfae,cosmosgc,viniciusbretasavezani@gmail.com,modal string hex removal for modal
+d04c498,cosmosgc,viniciusbretasavezani@gmail.com,gpt timeout tweak
+446595e,cosmosgc,viniciusbretasavezani@gmail.com,Add titles for each section
+125eac0,cosmosgc,viniciusbretasavezani@gmail.com,remove duplicate h2 on post
+a0cc2b1,cosmosgc,viniciusbretasavezani@gmail.com,Prompt change to generate <h2> title
+a02aad0,cosmosgc,viniciusbretasavezani@gmail.com,category select on posting fix
+d56b781,cosmosgc,viniciusbretasavezani@gmail.com,backend if logic changes to update yoast
+370eaaf,cosmosgc,viniciusbretasavezani@gmail.com,image_url fix
+590ebc0,cosmosgc,viniciusbretasavezani@gmail.com,missing url_link_1 frontend
+c8a44ec,cosmosgc,viniciusbretasavezani@gmail.com,missing url_link_1
+d191def,cosmosgc,viniciusbretasavezani@gmail.com,imagens era uniqid + jpg, agora é nome + uniqid + jpg
+e9f7405,cosmosgc,viniciusbretasavezani@gmail.com,another removeDuplicateHref
+0cadbbe,cosmosgc,viniciusbretasavezani@gmail.com,reload config page
+0a6b5c0,cosmosgc,viniciusbretasavezani@gmail.com,remove href duplicates
+0e55227,cosmosgc,viniciusbretasavezani@gmail.com,more if statements on image
+2957439,cosmosgc,viniciusbretasavezani@gmail.com,upload file missing fix
+c79a02c,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+2edbd1c,cosmosgc,viniciusbretasavezani@gmail.com,file upload
+1fbe827,gptautopost,contatoautopost@gmail.com,fix:download de imagem do drive fixed
+227de7d,gptautopost,contatoautopost@gmail.com,fix:parsed dos links sendo feito pós request
+bcc4c1f,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+938113d,cosmosgc,viniciusbretasavezani@gmail.com,return '' if video not found, alert when gdoc folder is not present
+fe9e507,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+e1f8d66,gptautopost,contatoautopost@gmail.com,fix: break line added
+5caf7e2,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+cd597bd,cosmosgc,viniciusbretasavezani@gmail.com,dont update the post_content by the user
+ec0c60d,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+aece920,gptautopost,contatoautopost@gmail.com,fix:gptController long text
+839fc80,cosmosgc,viniciusbretasavezani@gmail.com,preview tweaks
+b4e5d74,cosmosgc,viniciusbretasavezani@gmail.com,post preview update
+b95fffa,cosmosgc,viniciusbretasavezani@gmail.com,h2 no QA
+1978b6b,cosmosgc,viniciusbretasavezani@gmail.com,loading, alerts, config icon change
+4fe6ccd,gptautopost,contatoautopost@gmail.com,fix: reload updated
+37914d8,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+25545ca,gptautopost,contatoautopost@gmail.com,fix:url_parameter fixed
+44e2c6e,cosmosgc,viniciusbretasavezani@gmail.com,more calls to stop the loading animation
+2d8e911,cosmosgc,viniciusbretasavezani@gmail.com,scheduling, change to custom plugin api
+dd16805,cosmosgc,viniciusbretasavezani@gmail.com,boolean fix
+1547a9e,cosmosgc,viniciusbretasavezani@gmail.com,update video post
+39a56f4,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '5152eaef1c35fe9929d95dfa0aa56f93c995d7bc' into qa_fix
+5152eae,gptautopost,contatoautopost@gmail.com,fix:video option  added to db
+24582a8,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '7aeedc0e1f0029ec1499f2abd711235d1976d089' into qa_fix
+7aeedc0,gptautopost,contatoautopost@gmail.com,fix: youtube tasks uncommented
+f20f804,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+777c038,cosmosgc,viniciusbretasavezani@gmail.com,plugin url api for testing
+4844879,gptautopost,contatoautopost@gmail.com,fix:schedule again
+13a436c,gptautopost,contatoautopost@gmail.com,fix:another schedule fix
+2094334,gptautopost,contatoautopost@gmail.com,fix:updates  for testes
+6f2ae35,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+23f69b8,cosmosgc,viniciusbretasavezani@gmail.com,ia_cred backend missing data fix
+2370eb2,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit 'e9dd19eb8cba673bddf927a42c11d9ac23d662bc' into qa_fix
+3488831,cosmosgc,viniciusbretasavezani@gmail.com,writing_style typo fix on token insert
+29edb32,gptautopost,contatoautopost@gmail.com,fix:schedule update
+e9dd19e,gptautopost,contatoautopost@gmail.com,fix:schedule updated
+c8c86e3,cosmosgc,viniciusbretasavezani@gmail.com,gcred tweak test
+8c5dd7e,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+74f9e27,cosmosgc,viniciusbretasavezani@gmail.com,swal alert on batch generate
+26c6122,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+13e246e,gptautopost,contatoautopost@gmail.com,fix: gpt alert title
+0d6d599,cosmosgc,viniciusbretasavezani@gmail.com,post batch string tweak
+9d76b5d,cosmosgc,viniciusbretasavezani@gmail.com,alert on batch post
+62a9df7,cosmosgc,viniciusbretasavezani@gmail.com,stop loading when single post to wp
+02785ff,cosmosgc,viniciusbretasavezani@gmail.com,element fix on loading
+b2306c9,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '4660b036d9e90b0665d0a914168059e66bbfe1ec' into qa_fix
+45d93df,cosmosgc,viniciusbretasavezani@gmail.com,loading fix
+4660b03,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+6fa1904,gptautopost,contatoautopost@gmail.com,fix:litlre fix on schedule
+cf3df6e,cosmosgc,viniciusbretasavezani@gmail.com,fix if ia_cred is null
+06f5f70,cosmosgc,viniciusbretasavezani@gmail.com,forceyoast hack
+1a42895,gptautopost,contatoautopost@gmail.com,fix:ddremoved
+b7da6b2,gptautopost,contatoautopost@gmail.com,fix:schedule updated
+7ff3177,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix' of https://github.com/BrunoSan123/wp_system into qa_fix
+854dddb,gptautopost,contatoautopost@gmail.com,fix:adição de dias adicionado ao import do csv
+8f46a4a,cosmosgc,viniciusbretasavezani@gmail.com,form filling from sql data
+e2048b5,cosmosgc,viniciusbretasavezani@gmail.com,Atualizei o botão de configuração IA e um fix no backend
+8641e64,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+a465093,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '7c2feb89d38a3c4243e232f877a1256e4d0fe347' into qa_fix
+d7df010,cosmosgc,viniciusbretasavezani@gmail.com,update artigo fix
+d4eaf4c,cosmosgc,viniciusbretasavezani@gmail.com,pegando dados dos credenciais IA para usar na configurações de IA
+eb21fd8,gptautopost,contatoautopost@gmail.com,fix:regex added to wordpress controller
+7c2feb8,gptautopost,contatoautopost@gmail.com,fix:location commented
+a5bfdb0,gptautopost,contatoautopost@gmail.com,fix: credential validation updated
+4510153,gptautopost,contatoautopost@gmail.com,fix: alert added on single post insertion
+b6557f4,gptautopost,contatoautopost@gmail.com,fix: pequenas alterações na pág de Configurações da ia
+5e9b20b,gptautopost,contatoautopost@gmail.com,reload added
+c091a32,gptautopost,contatoautopost@gmail.com,post_id readicionado a query unica da configuração
+0a8dca0,gptautopost,contatoautopost@gmail.com,bug do yoast fixed
+56ded3d,gptautopost,contatoautopost@gmail.com,fix: search on you-tube added
+f11ec79,cosmosgc,viniciusbretasavezani@gmail.com,youtube api search function
+b80f7ab,cosmosgc,viniciusbretasavezani@gmail.com,Uma função para converter links youtube para embeds
+bbaaf1f,cosmosgc,viniciusbretasavezani@gmail.com,Deletar em lote
+c712029,cosmosgc,viniciusbretasavezani@gmail.com,update yoast keyword fix and tested
+fdb3554,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '053e6395337c69ec5fa47c820ff5f7abce72940d' into qa_fix
+ac362ad,cosmosgc,viniciusbretasavezani@gmail.com,update yoast keyword
+053e639,gptautopost,contatoautopost@gmail.com,fix:pequen fiz de mensagem
+447ede7,gptautopost,contatoautopost@gmail.com,Merge branch 'qa_fix'
+5b8679c,gptautopost,contatoautopost@gmail.com,fix:bug do redirecto do googleAuth atualizado
+72e9277,gptautopost,contatoautopost@gmail.com,teste3 for prod
+0daf626,gptautopost,contatoautopost@gmail.com,fix:teste2 for prod
+c065f51,gptautopost,contatoautopost@gmail.com,fix: teste para prod
+2c4cb89,gptautopost,contatoautopost@gmail.com,fix: casesSensiteves da página de configuração do drive, consertadas
+3e83366,gptautopost,contatoautopost@gmail.com,fix:case sensitive fix
+9f18953,cosmosgc,viniciusbretasavezani@gmail.com,alert reload
+2abb056,cosmosgc,viniciusbretasavezani@gmail.com,animação de loading ao clicar nos botões single post e generate
+eea8a69,cosmosgc,viniciusbretasavezani@gmail.com,/quit fix
+8e668f9,cosmosgc,viniciusbretasavezani@gmail.com,loading_elements fix
+16aaa22,gptautopost,contatoautopost@gmail.com,fix: date input fixed
+d38692c,gptautopost,contatoautopost@gmail.com,fix:view de criar com o google eliminada
+9e376f9,gptautopost,contatoautopost@gmail.com,fix:admin da  criação de usuario
+5087ad1,gptautopost,contatoautopost@gmail.com,fix:btach de fix added
+3fff920,Cosmosgc,cosmoskitsune@hotmail.com,fa icon fix
+f54b0a0,Cosmosgc,cosmoskitsune@hotmail.com,gdrive sql fix
+fded795,Cosmosgc,cosmoskitsune@hotmail.com,consume gdoc fix
+0d88780,Cosmosgc,cosmoskitsune@hotmail.com,Consumir google docs
+62b4b4e,Cosmosgc,cosmoskitsune@hotmail.com,corrigir gdrive_url para gdrive_document_url menos quando é para imagem
+23dffe3,Cosmosgc,cosmoskitsune@hotmail.com,animação feedback para quando estiver fazendo request gdrive
+a60550b,Cosmosgc,cosmoskitsune@hotmail.com,alert na create_doc para caso retorne um error
+3bfe8e4,Cosmosgc,cosmoskitsune@hotmail.com,reload page when gdrive credentials return true
+f667239,gptautopost,contatoautopost@gmail.com,fix:campo para documento do google atualizado
+a719bc5,gptautopost,contatoautopost@gmail.com,fix:página cadastro de usuário root criada
+e81bb92,cosmosgc,viniciusbretasavezani@gmail.com,create_gdoc default param tweak
+2eab670,cosmosgc,viniciusbretasavezani@gmail.com,login google style
+d54e0d0,cosmosgc,viniciusbretasavezani@gmail.com,Gdrive fetch fix
+a70bddf,cosmosgc,viniciusbretasavezani@gmail.com,Pasta google drive
+d068c0a,cosmosgc,viniciusbretasavezani@gmail.com,gdrive tweaks and test
+03c2286,cosmosgc,viniciusbretasavezani@gmail.com,me livrando de um loop estranho
+1939f83,cosmosgc,viniciusbretasavezani@gmail.com,working search
+10d78f5,cosmosgc,viniciusbretasavezani@gmail.com,update and create gdrive creds
+880ba30,cosmosgc,viniciusbretasavezani@gmail.com,loading feedback
+d04cc02,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit 'fd3cda3a4410eea596a9145463fd810c8a1340ae' into qa_fix
+8834d83,cosmosgc,viniciusbretasavezani@gmail.com,Select all + gdrive button
+fd3cda3,gptautopost,contatoautopost@gmail.com,fix: search bar updated
+ef00a15,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '370b4b031592e1d40c8142ba40272a575baf9b13' into qa_fix
+d224110,cosmosgc,viniciusbretasavezani@gmail.com,Style geral de certas paginas
+370b4b0,gptautopost,contatoautopost@gmail.com,fix:driverUserId field value added
+b1317ae,gptautopost,contatoautopost@gmail.com,fix:driveCredential form parse fixed
+602341c,cosmosgc,viniciusbretasavezani@gmail.com,break line aleatorio para testar commit
+e818e45,cosmosgc,viniciusbretasavezani@gmail.com,Post to wp complete
+4e943c4,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+995c211,cosmosgc,viniciusbretasavezani@gmail.com,Postar em lote
+a25144f,gptautopost,contatoautopost@gmail.com,fix:modal dialog element recover
+bba0411,gptautopost,contatoautopost@gmail.com,fix:bugs da pagina de listagem de configs fixed
+ffec5b8,cosmosgc,viniciusbretasavezani@gmail.com,code cleanup
+3d41c47,cosmosgc,viniciusbretasavezani@gmail.com,post_content fix
+ed7b27c,cosmosgc,viniciusbretasavezani@gmail.com,checkbox on table now
+c5f0393,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/qa_fix' into qa_fix
+bcdd815,gptautopost,contatoautopost@gmail.com,fix:query do search updated
+eefe4ca,gptautopost,contatoautopost@gmail.com,orWhere fixed
+cd6722c,gptautopost,contatoautopost@gmail.com,fix:post_content null fixed
+886d360,cosmosgc,viniciusbretasavezani@gmail.com,batch post frontend send request now
+ebd661a,cosmosgc,viniciusbretasavezani@gmail.com,db fix
+1ec0857,cosmosgc,viniciusbretasavezani@gmail.com,simple bacth list
+56509a2,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit 'af6b011866558bcdd371af7616155f92750bf3ac' into qa_fix
+af6b011,gptautopost,contatoautopost@gmail.com,fix: little changes
+2d1002b,gptautopost,contatoautopost@gmail.com,fix:batch controller parameters updated
+e1253dc,cosmosgc,viniciusbretasavezani@gmail.com,Create post with gpt (Falta cleanup)
+96eb1a2,gptautopost,contatoautopost@gmail.com,fix:id changed to uuid
+3bf0dbd,cosmosgc,viniciusbretasavezani@gmail.com,Submit wp request fix
+cfb5db8,gptautopost,contatoautopost@gmail.com,fix: função de baixar imagem da pasta do google+cript no front atualizado
+004e50b,cosmosgc,viniciusbretasavezani@gmail.com,list tweaks and QoL
+ed5dde4,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit 'eb349734c19894255c27b45b6b2aeda3791d21bc' into qa_fix
+eb34973,cosmosgc,viniciusbretasavezani@gmail.com,Credenciais google formatado, estilizado e com QoL
+888ff93,cosmosgc,viniciusbretasavezani@gmail.com,icon on the sidebar menu
+1d8b08a,cosmosgc,viniciusbretasavezani@gmail.com,table order change
+9a1d53a,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Create laravel.yml
+3b4489e,gptautopost,contatoautopost@gmail.com,fix: pequenos updates do PostContentController
+b688a21,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #13 from cosmosgc/main
+46754e8,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '0e6c801cca7417d7c9d6267c579f4f4f15e6f8f0'
+5a7a07d,cosmosgc,viniciusbretasavezani@gmail.com,style tweaks
+0e6c801,gptautopost,contatoautopost@gmail.com,fix: google auth updated
+480b66b,gptautopost,contatoautopost@gmail.com,fix:auth configured
+c189c53,gptautopost,contatoautopost@gmail.com,fix:google oauth updated
+d1e4712,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '37c9b49a594f02d18879ead5ab634dbc5b0ab816'
+1daabf5,cosmosgc,viniciusbretasavezani@gmail.com,menu order and table syntax tweak
+37c9b49,gptautopost,contatoautopost@gmail.com,fix:gptController atualizado
+fd6b21a,gptautopost,contatoautopost@gmail.com,fix: tabela de configuração da ia atualizada
+2bb4235,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #12 from cosmosgc/main
+cfb4587,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit 'd1ec32943d88135510a24d21ce9a289c81487c41'
+d30d761,cosmosgc,viniciusbretasavezani@gmail.com,get user_id, place editor_id the same
+d1ec329,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #11 from cosmosgc/main
+8f2e1bb,cosmosgc,viniciusbretasavezani@gmail.com,menu for google cred
+8d690f9,cosmosgc,viniciusbretasavezani@gmail.com,google credencials first commit
+38c2c1e,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit '6dc4f5399e053e1f441e04adfeaae7e064d6cacc'
+6dc4f53,gptautopost,contatoautopost@gmail.com,fix:wpservice updated
+55e5340,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #10 from cosmosgc/main
+e5fdeb4,gptautopost,contatoautopost@gmail.com,fix:tweeks
+a4162f2,cosmosgc,viniciusbretasavezani@gmail.com,gpt_query generatePost frontend fix
+95191ba,gptautopost,contatoautopost@gmail.com,fix:sys helper changed
+6c819e8,gptautopost,contatoautopost@gmail.com,little update
+8f22803,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #9 from cosmosgc/main
+a360e03,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+9b8a38f,cosmosgc,viniciusbretasavezani@gmail.com,post and update yoast keyword
+105f973,gptautopost,contatoautopost@gmail.com,fix:service updated
+58b7ff2,gptautopost,contatoautopost@gmail.com,fix:service do gDrive adicionado
+cfdc717,cosmosgc,viniciusbretasavezani@gmail.com,remove post_content to prevent js error
+e961171,cosmosgc,viniciusbretasavezani@gmail.com,menu style
+80271cf,gptautopost,contatoautopost@gmail.com,fix:bug no post
+6bf3605,cosmosgc,viniciusbretasavezani@gmail.com,Merge commit 'ebdec38000fbb5f7776bae602b339cc367a38807'
+4152751,cosmosgc,viniciusbretasavezani@gmail.com,table style tweak
+ebdec38,gptautopost,contatoautopost@gmail.com,fix:teste
+301ac48,gptautopost,contatoautopost@gmail.com,kakak
+d35cd51,gptautopost,contatoautopost@gmail.com,fix;.car
+556c45a,gptautopost,contatoautopost@gmail.com,fix sas
+56425e3,gptautopost,contatoautopost@gmail.com,fix faz
+9c44db6,gptautopost,contatoautopost@gmail.com,fix:tas
+3ca5e54,gptautopost,contatoautopost@gmail.com,fix:xaxa
+3e31a7b,gptautopost,contatoautopost@gmail.com,fix:changes
+8c96015,gptautopost,contatoautopost@gmail.com,fix:crying
+9711618,gptautopost,contatoautopost@gmail.com,fix:sass
+637203b,gptautopost,contatoautopost@gmail.com,fix:sass
+9ecb0c1,gptautopost,contatoautopost@gmail.com,fix:teste fix:
+360057a,gptautopost,contatoautopost@gmail.com,fix:placeholders updated
+9ce128c,gptautopost,contatoautopost@gmail.com,fix:viw de listagem de usuarios criada
+059e643,gptautopost,contatoautopost@gmail.com,fix:new views and bugs fixed
+477dc7c,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #8 from cosmosgc/main
+572f7b6,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+86038fb,gptautopost,contatoautopost@gmail.com,fix: scripts da pagina de configurações atualizado+listagem de tokens adicionado
+cffe0e3,cosmosgc,viniciusbretasavezani@gmail.com,update form updated
+ef4a4c8,gptautopost,contatoautopost@gmail.com,fix: some chames
+a87e23b,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #7 from cosmosgc/main
+b2c567b,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+5df03ba,cosmosgc,viniciusbretasavezani@gmail.com,Update post modal
+34e6427,gptautopost,contatoautopost@gmail.com,fix:menu style updated
+3ea7556,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #6 from cosmosgc/main
+f161271,gptautopost,contatoautopost@gmail.com,fix:listagem de categorias do grid de criação,+controller de atualização das configs adicionados
+bd9bd2c,cosmosgc,viniciusbretasavezani@gmail.com,PUT post fix
+5e27eae,cosmosgc,viniciusbretasavezani@gmail.com,update post modal frontend
+1ce5486,cosmosgc,viniciusbretasavezani@gmail.com,style, item agendado na table, update modal
+cfb5d0a,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+402b8a1,gptautopost,contatoautopost@gmail.com,fix: case sensitive fix
+421e9ea,gptautopost,contatoautopost@gmail.com,fix:vite removed
+f9a5005,gptautopost,contatoautopost@gmail.com,fix: fixies for deploy
+4cc1ab1,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #5 from cosmosgc/main
+477efe4,gptautopost,contatoautopost@gmail.com,fix:wp_credentials+post_content updated
+67a91db,gptautopost,contatoautopost@gmail.com,fix: wp_credentials_migrate changed
+f2bd3b6,cosmosgc,viniciusbretasavezani@gmail.com,gpt_query frontend fix
+f090f98,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+bb9e596,gptautopost,contatoautopost@gmail.com,fix: agedamento atualizado
+ea7b1c9,cosmosgc,viniciusbretasavezani@gmail.com,modal style
+2f098e9,cosmosgc,viniciusbretasavezani@gmail.com,server .bat
+5c5e568,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+91e5592,gptautopost,contatoautopost@gmail.com,fix:botão de delete ajustado, fix em andamendo do egendamento
+cd4e1ba,gptautopost,contatoautopost@gmail.com,fix:modais de alteração adicionadas
+d73ee60,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #4 from cosmosgc/main
+3d7726b,gptautopost,contatoautopost@gmail.com,fix: query for the yoast modifier add
+f0d0408,cosmosgc,viniciusbretasavezani@gmail.com,Delete button to editors
+245eadb,gptautopost,contatoautopost@gmail.com,fix: new fetch added
+cc9dbe4,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+e09fa86,gptautopost,contatoautopost@gmail.com,fix: textos traduzidos
+0243d82,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #3 from cosmosgc/main
+ef0d4fa,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+1080c78,cosmosgc,viniciusbretasavezani@gmail.com,Editors table list, submit posts style
+0b13ccf,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #2 from cosmosgc/main
+3c6531a,cosmosgc,viniciusbretasavezani@gmail.com,cleanup
+42cce85,cosmosgc,viniciusbretasavezani@gmail.com,table add dynamic
+3c06664,cosmosgc,viniciusbretasavezani@gmail.com,quit route
+4301848,cosmosgc,viniciusbretasavezani@gmail.com,style tweaks
+45ef1b2,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+de1333e,gptautopost,contatoautopost@gmail.com,fix:command updated
+8390e38,gptautopost,contatoautopost@gmail.com,fix: schedule updated
+e0e2759,cosmosgc,viniciusbretasavezani@gmail.com,Merge remote-tracking branch 'upstream/main'
+a69fb40,cosmosgc,viniciusbretasavezani@gmail.com,card tweaks
+d0af763,gptautopost,contatoautopost@gmail.com,fix: query de modificação do youast added
+e37a0e4,gptautopost,contatoautopost@gmail.com,fix: filtro de busca adicionado, mas fix de controllers de imagem
+9ed40df,Bruno Barreto Alves da Silva,44749250+BrunoSan123@users.noreply.github.com,Merge pull request #1 from cosmosgc/main
+b42db45,cosmosgc,viniciusbretasavezani@gmail.com,tweak
+44987aa,cosmosgc,viniciusbretasavezani@gmail.com,menu style tweak and table style
+4402994,gptautopost,contatoautopost@gmail.com,fix:read-me and other stuffs added
+9b209c5,gptautopost,contatoautopost@gmail.com,fix: loading action added
+c51e4f5,gptautopost,contatoautopost@gmail.com,fix:models atualizadas+views criadas
+b39ef27,gptautopost,contatoautopost@gmail.com,fix:logica de  csv atualizada+views criadas
+17ff176,gptautopost,contatoautopost@gmail.com,fix:create n retrieve docs created
+eda9558,gptautopost,contatoautopost@gmail.com,fix: qa and conclusion added to gpt query
+db5405a,gptautopost,contatoautopost@gmail.com,fix: submit post page added
+a6f543b,gptautopost,contatoautopost@gmail.com,token removed
+8cf4d8f,gptautopost,contatoautopost@gmail.com,fix: area de listangem adicionana
+45ba7c8,gptautopost,contatoautopost@gmail.com,first commit of the project
