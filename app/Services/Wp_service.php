@@ -180,4 +180,9 @@ class Wp_service{
             echo 'Resposta da requisição: ' . $response;
         }
     }
+
+    public function deletePost($id,$domain,$login,$password){
+        $deletePostFromPlataform=$this->client->delete($domain.'/wp-json/wp/v2/posts/'.$id,['auth'=>[$login,$password]]);
+        return $deletePostFromPlataform;
+    }
 }
