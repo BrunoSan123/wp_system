@@ -329,7 +329,7 @@
 
 
     <footer class="footer footer-simples">
-        <p>&copy; 2014-{{ date('Y') }} Tangerina Dev. Todos os direitos reservados.</p>
+        <p>&copy; 2023-{{ date('Y') }} Tangerina Dev. Todos os direitos reservados.</p>
 
         <p class="footer-links">
             <a class="simple-link" href="/termos">Termos de uso</a>
