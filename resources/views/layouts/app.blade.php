@@ -56,6 +56,7 @@
             margin: 0;
             display: flex;
             align-items: center;
+            overflow: auto;
         }
 
         .header li {
@@ -173,9 +174,18 @@
             background-color: #e0e0e0a8;
         }
 
-        @media only screen and (max-width: 600px) {
+        @media only screen and (max-width: 768px) {
             th, td {
                 font-size: 14px;
+            }
+
+            .header ul li {
+                width: 100%;
+                /* padding: 10px 0;  */
+                font-size: small;
+            }
+            .open{
+                transform: translateY(90px) !important;
             }
         }
 
